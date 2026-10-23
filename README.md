@@ -4,9 +4,9 @@ An end-to-end Revenue Operations (RevOps) architecture combining a GoHighLevel C
 
 ---
 
-## ⚡ One-Click Deployments & Links
+## ⚡ Deployments & Resources
 
-* **GoHighLevel Subaccount Snapshot:** *(Import link if available)*
+* **GoHighLevel Subaccount Guide:** [`./docs/GHL_Subaccount.md`](./docs/GHL_Subaccount.md)
 * **Make.com Blueprint:** [`./blueprints/Integration Webhooks.blueprint.json`](./blueprints/Integration%20Webhooks.blueprint.json)
 * **Video Demos:** [Jump to Loom Walkthrough Links](#-video-walkthroughs)
 
@@ -52,10 +52,9 @@ An end-to-end Revenue Operations (RevOps) architecture combining a GoHighLevel C
 ```text
 ghl-video-agency-revops/
 ├── README.md
-├── docs/
-│   └── loom_links.md
 ├── blueprints/
 │   └── Integration Webhooks.blueprint.json
-└── assets/
-    ├── ghl_pipeline.png
-    └── make_canvas.png
+├── docs/
+│   ├── GHL_Subaccount.md
+│   └── loom_links.md
+└── screenshots/
